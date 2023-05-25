@@ -24,11 +24,12 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
+- [Checklists](https://github.com/Katerheena/katerheena/blob/main/%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%D0%BD%D0%B0%20Wildberries.pdf)
 - [Test-Suites and Test-Cases](https://github.com/Katerheena/katerheena/blob/main/%D0%A2%D0%B5%D1%81%D1%82-%D0%BA%D0%B5%D0%B9%D1%81%D1%8B.pdf)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Test-Cases in English](https://github.com/Katerheena/katerheena/blob/main/test%20cases%20English.pdf)
+- [Bug-Reports](https://github.com/Katerheena/katerheena/blob/main/Bug%20reports.pdf)
+- [Bug-Reports in English](https://github.com/Katerheena/katerheena/blob/main/bug%20reports%20in%20English.pdf)
+
 
 ### Contact Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Kate_rheena)
